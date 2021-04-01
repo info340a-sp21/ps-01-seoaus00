@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    padding: 0 2em;
+}
+
+header {
+    padding: .5em;
+    font-weight: bold;
+}
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    max-height: 400px;
+}
+
+a {
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+li {
+    line-height: 1.5;
+}
+
+.highlight {
+    color: lightcoral;
+}
